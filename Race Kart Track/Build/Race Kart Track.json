@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Race Kart",
+"productVersion": "1.0",
+"dataUrl": "Race Kart Track.data.unityweb",
+"wasmCodeUrl": "Race Kart Track.wasm.code.unityweb",
+"wasmFrameworkUrl": "Race Kart Track.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
